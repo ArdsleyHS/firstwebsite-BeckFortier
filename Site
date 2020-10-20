@@ -5,10 +5,24 @@
     </head>
     <body>
     <h1>Welcome to my site!</h1>
-      <h3>You can find may things here...</h3>
-      <h3>...Such as</h3>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Flickr_-_cyclonebill_-_P%C3%B8lser.jpg" alt="">
+      <h3>You can find many things I like here, such as...</h3>
+      <br>
+      <h3><b>...Pølser!</b></h3>
+      <h5><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Flickr_-_cyclonebill_-_P%C3%B8lser.jpg" width="160" height="120"></h5>
+      <h6><i>Pølser, cyclonebill, Imgur</i></h6>
       <ul>
+        <li>Originates from Denmark</li>
+        <li>Enjoyable with my danish cousins</li>
+        <li>A nice warm treat in my favorite cold weather</li>
+      </ul>
+      <br>
+      <h3><b>...Florida!</b></h3>
+      <h5><img src="https://www.wfla.com/wp-content/uploads/sites/71/2019/10/My-Post-20.jpg?w=876&h=493&crop=1" width="200" height="120"></h5>
+      <h6><i>Paul Bedard with 8 ft alligator (@Gatorboysalligatorrescue)</i></h6>
+      <ul>
+        <li>Originates from Australia, probably</li>
+        <li></li>
+        <li></li>
         <li></li>
       </ul>
     </body>
