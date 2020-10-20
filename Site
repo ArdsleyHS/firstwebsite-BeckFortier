@@ -1,3 +1,55 @@
-<!DOCTYPE HTML>
-  
-
+<!DOCTYPE:html>
+<html>
+    <head>
+      <Title>Site</Title>
+       <style>
+        h1 {
+            font-size: 50px;
+            font-weight: bold;
+            color: blue;
+            text-align: center;
+        }
+    </style>
+    </head>
+    <body>
+      <h1>Welcome to my site!</h1>
+      <p>
+        I've compiled a short list of thing I enjoy, and enjoyable things about those things I enjoy. Enjoy!
+      </p>
+      <h3></h3>
+      <h3>You can find many things I like here, such as...</h3>
+      <h3><b>...Pølser!</b></h3>
+      <h5><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Flickr_-_cyclonebill_-_P%C3%B8lser.jpg" width="160" height="120"></h5>
+      <h6><i>Pølser, cyclonebill, Imgur</i></h6>
+      <ul>
+        <li>Originates from Denmark</li>
+        <li>Enjoyable with my danish cousins</li>
+        <li>A nice warm treat in my favorite cold weather</li>
+      </ul>
+      <hr>
+      <h3><b>...Florida!</b></h3>
+      <h5><img src="https://www.wfla.com/wp-content/uploads/sites/71/2019/10/My-Post-20.jpg?w=876&h=493&crop=1" width="200" height="120"></h5>
+      <h6><i>Paul Bedard with 8 ft alligator (@Gatorboysalligatorrescue)</i></h6>
+      <ul>
+        <li>Originates from Australia, or hell</li>
+        <li>It's where my dad lives</li>
+        <li>Home of shitty driving</li>
+        <li>Disgusting weather</li>
+      </ul>
+      <hr>
+      <h3><b>...Long Walks!</b></h3>
+      <ul>
+        <li>Very nice for music and podcasts</li>
+        <li>Time away from annoying family is like gold</li>
+        <li>Mental cooldown</li>
+      </ul>
+      <hr>
+      <h3><b>...Solo Work And Video Games!</b></h3>
+      <ul>
+        <li>Also very nice for music and podcasts</li>
+        <li>Turning my brain off to do easy work is fun</li>
+        <li>Not very fond of group work</li>
+        <li>Contrary to work, I enjoy challenging video games</li>
+      </ul>
+    </body>
+</html>
