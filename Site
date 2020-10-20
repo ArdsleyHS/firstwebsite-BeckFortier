@@ -1,3 +1,15 @@
-<!DOCTYPE HTML>
-  
-
+<!DOCTYPE:html>
+<html>
+    <head>
+    <Title>My first web page</Title>
+    </head>
+    <body>
+    <h1>Welcome to my site!</h1>
+      <h3>You can find may things here...</h3>
+      <h3>...Such as</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Flickr_-_cyclonebill_-_P%C3%B8lser.jpg" alt="">
+      <ul>
+        <li></li>
+      </ul>
+    </body>
+</html>
